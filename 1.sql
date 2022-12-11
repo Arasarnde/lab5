@@ -41,8 +41,8 @@ CREATE TABLE `1` (
 INSERT INTO `1` (`id`, `name`, `cost`, `img`) VALUES
 (1, 'one', 111111, 'pictures/succulent5.png'),
 (2, 'three', 333333, 'pictures/succulent3.png'),
-(4, '5555', 5555, 'pictures/succulent1.png'),
-(5, '5665', 5555, 'pictures/succulent5.png');
+(3, '5555', 5555, 'pictures/succulent1.png'),
+(4, '5665', 5555, 'pictures/succulent5.png');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
